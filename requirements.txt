@@ -1,0 +1,4 @@
+pywhatkit
+requests
+python-chess
+cairosvg
